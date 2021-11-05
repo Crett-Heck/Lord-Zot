@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Crett\\.nuget\\packages\\": {}
+    "C:\\Users\\wosfr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ROR2modding\\LordZot\\ExampleSurvivor-master\\ExampleSurvivor\\ExampleSurvivor\\ExampleSurvivor\\LordZot.csproj",
+      "projectUniqueName": "F:\\ROR2modding\\LordZot\\ExampleSurvivor-master\\ExampleSurvivor\\ExampleSurvivor\\ExampleSurvivor\\LordZot.csproj",
       "projectName": "LordZot",
-      "projectPath": "D:\\ROR2modding\\LordZot\\ExampleSurvivor-master\\ExampleSurvivor\\ExampleSurvivor\\ExampleSurvivor\\LordZot.csproj",
-      "packagesPath": "C:\\Users\\Crett\\.nuget\\packages\\",
-      "outputPath": "D:\\ROR2modding\\LordZot\\ExampleSurvivor-master\\ExampleSurvivor\\ExampleSurvivor\\ExampleSurvivor\\obj\\",
+      "projectPath": "F:\\ROR2modding\\LordZot\\ExampleSurvivor-master\\ExampleSurvivor\\ExampleSurvivor\\ExampleSurvivor\\LordZot.csproj",
+      "packagesPath": "C:\\Users\\wosfr\\.nuget\\packages\\",
+      "outputPath": "F:\\ROR2modding\\LordZot\\ExampleSurvivor-master\\ExampleSurvivor\\ExampleSurvivor\\ExampleSurvivor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Crett\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wosfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
